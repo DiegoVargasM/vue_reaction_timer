@@ -32,7 +32,6 @@ export default {
     },
   },
 };
-s;
 </script>
 
 <style>
